@@ -1,0 +1,50 @@
+.navbar{
+	background-color: white !important;
+}
+
+
+.navbar .navbar-nav li a{
+	font-size:20px;
+	color:#2490ce !important;
+	background-color: white !important;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.card{
+	display: inline-block;
+	background-color:#b91d28;
+	color: white;
+	border-radius: 50px 0px 50px 50px;
+	border:none;
+	padding: 10px;
+}
+
+#ab{
+	background-image:url(ba.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 20px;
+}
+
+
+.card1{
+	display: inline-block;
+	background-color:#b91d28;
+	color: white;
+	border-radius: 20px 80px 20px 80px;
+	border:none;
+	padding: 10px;
+	margin: 10px;
+}
+
+p{
+	font-size:18px;
+}
+
+#foo{
+	background-color: #9c000b;
+	color: white;
+	padding: 40px;
+}
